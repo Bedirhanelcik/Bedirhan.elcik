@@ -10,7 +10,7 @@
 
 A year ago I set out to build a personal portfolio and stopped. I had projects, but the work had not reached the level I wanted to represent professionally.
 
-Since then I have built and experimented with more than 100 projects, around 20 of which reached a production-ready level. That covered frontend development, backend work, full-stack applications, interactive web experiences and AI-powered products. I currently work as a freelance frontend developer and am moving towards larger, more structured professional work.
+I have built and experimented with more than 100 projects, around 20 of which reached a production-ready level. That covered frontend development, backend work, full-stack applications, interactive web experiences and AI-powered products. I currently work as a freelance frontend developer and am moving towards larger, more structured professional work.
 
 ---
 
