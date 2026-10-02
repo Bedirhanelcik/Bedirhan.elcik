@@ -1,6 +1,6 @@
 # Bedirhan Elçik
 
-Frontend / Full-Stack Developer and Creative Developer. I build modern web products, interactive web experiences, and AI-powered systems.
+ Full-Stack Developer. I build modern web products, interactive web experiences, and AI-powered systems.
 
 **This is a public showcase, not the source code of my portfolio** — five isolated examples of engineering decisions from it, and notes on the architecture around them.
 
